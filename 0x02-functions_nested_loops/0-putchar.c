@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.c"
 /**
  * main - Entry point
  * Description: prints 'Holberton \n'
@@ -17,4 +17,6 @@ _putchar(c);
 i++;
 }
 return (0);
+
 }
+
