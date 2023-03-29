@@ -1,6 +1,7 @@
-#ifndef main.h
-#define main.h
+#ifndef MAIN_H
+#define MAIN_H
 
-int _putchar(char c);
+#include <stdio.h>
 
+int isdigit(char c);
 #endif
